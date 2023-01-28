@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "ResourcePack for §2§lLife§a§lMine",
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ],
+    "name": "LMRP Anarchy",
+    "uuid": "2981949a-47b6-43a9-8450-f27722b81458",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "ResourcePack for §2§lLife§a§lMine",
+      "type": "resources",
+      "uuid": "d645126d-c5d6-4525-a459-d3108f2933e3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
